@@ -1,0 +1,51 @@
+
+body
+{
+   background: url(../Resources/BG-MCQ.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+#logo-credenz
+{
+    width: 149px;
+    height: 63px;
+    margin: -10px;
+    margin-left: -39px;
+}
+#textpict
+{
+    font-size: 18px;
+    color: white;
+}
+#questionimage
+{
+    height: 220px;
+    width:250px;
+    
+}
+.countdown
+{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    
+   
+}
+.container
+{
+    font-size: 20px;
+}
+#logo
+{
+    width: 200px;
+    height: 200px;
+    
+}
+.radio
+{
+   padding: 5px;
+    
+}

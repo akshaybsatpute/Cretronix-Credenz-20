@@ -1,0 +1,25 @@
+body
+{
+   background: url(../Resources/BG-MCQ.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+#logo-cretronix
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+#textpict
+{
+    font-size: 18px;
+    color: white;
+}
+.textabt
+{
+    font-size: 20px;
+
+}
